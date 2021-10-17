@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid App</string>
+
+    <string name="suspects">Casos suspeitos:</string>
+    <string name="confirmed">Casos confirmados:</string>
+    <string name="cured">Casos curados:</string>
+    <string name="deads">Mortes:</string>
+    <string name="monitoring">Em monitoramento:</string>
+    <string name="descarted">Casos descartados:</string>
+    <string name="domicile">Cuidado domiciliar:</string>
+    <string name="hospital">Cuidado hospitalar:</string>
+
+    <string name="details_error">Erro ao buscar dados do boletim</string>
+    <string name="report">Boletim</string>
+</resources>

@@ -1,0 +1,110 @@
+[
+  {
+    "Suspeitos": 12,
+    "Confirmados": 8,
+    "Descartados": 16,
+    "Monitoramento": 0,
+    "Curados": 0,
+    "Sdomiciliar": 12,
+    "Shopitalar": 0,
+    "Chospitalar": 0,
+    "mortes": 0,
+    "boletim": "2020-03-29T03:00:00.000Z"
+  },
+  {
+    "Suspeitos": 8,
+    "Confirmados": 8,
+    "Descartados": 20,
+    "Monitoramento": 0,
+    "Curados": 0,
+    "Sdomiciliar": 8,
+    "Shopitalar": 0,
+    "Chospitalar": 0,
+    "mortes": 0,
+    "boletim": "2020-03-30T03:00:00.000Z"
+  },
+  {
+    "Suspeitos": 9,
+    "Confirmados": 8,
+    "Descartados": 23,
+    "Monitoramento": 0,
+    "Curados": 0,
+    "Sdomiciliar": 6,
+    "Shopitalar": 3,
+    "Chospitalar": 0,
+    "mortes": 0,
+    "boletim": "2020-03-31T20:00:00.000Z"
+  },
+  {
+    "Suspeitos": 13,
+    "Confirmados": 9,
+    "Descartados": 23,
+    "Monitoramento": 25,
+    "Curados": 4,
+    "Sdomiciliar": 7,
+    "Shopitalar": 6,
+    "Chospitalar": 0,
+    "mortes": 0,
+    "boletim": "2020-04-02T12:15:00.000Z"
+  },
+  {
+    "Suspeitos": 11,
+    "Confirmados": 9,
+    "Descartados": 28,
+    "Monitoramento": 36,
+    "Curados": 7,
+    "Sdomiciliar": 6,
+    "Shopitalar": 5,
+    "Chospitalar": 0,
+    "mortes": 0,
+    "boletim": "2020-04-04T13:15:00.000Z"
+  },
+  {
+    "Suspeitos": 10,
+    "Confirmados": 9,
+    "Descartados": 29,
+    "Monitoramento": 36,
+    "Curados": 7,
+    "Sdomiciliar": 7,
+    "Shopitalar": 3,
+    "Chospitalar": 0,
+    "mortes": 0,
+    "boletim": "2020-04-04T21:05:00.000Z"
+  },
+  {
+    "Suspeitos": 10,
+    "Confirmados": 9,
+    "Descartados": 32,
+    "Monitoramento": 42,
+    "Curados": 7,
+    "Sdomiciliar": 6,
+    "Shopitalar": 4,
+    "Chospitalar": 0,
+    "mortes": 0,
+    "boletim": "2020-04-06T14:25:00.000Z"
+  },
+  {
+    "Suspeitos": 9,
+    "Confirmados": 10,
+    "Descartados": 32,
+    "Monitoramento": 42,
+    "Curados": 7,
+    "Sdomiciliar": 6,
+    "Shopitalar": 3,
+    "Chospitalar": 1,
+    "mortes": 0,
+    "boletim": "2020-04-06T20:00:00.000Z"
+  },
+  {
+    "Suspeitos": 10,
+    "Confirmados": 10,
+    "Descartados": 34,
+    "Monitoramento": 43,
+    "Curados": 7,
+    "Sdomiciliar": 6,
+    "Shopitalar": 4,
+    "Chospitalar": 1,
+    "mortes": 0,
+    "boletim": "2020-04-07T16:45:00.000Z"
+  }
+]

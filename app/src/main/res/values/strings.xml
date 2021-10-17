@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Covid App</string>
+
+    <string name="suspects">Suspects:</string>
+    <string name="confirmed">Confirmed:</string>
+    <string name="cured">Cured:</string>
+    <string name="deads">Deads:</string>
+    <string name="monitoring">Monitoring:</string>
+    <string name="descarted">Descarted:</string>
+    <string name="domicile">Domicile:</string>
+    <string name="hospital">Hospital:</string>
+
+    <string name="details_error">Load data error</string>
+    <string name="report">Report</string>
+</resources>
